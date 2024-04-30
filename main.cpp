@@ -6,11 +6,11 @@ int main()
 	setlocale(LC_ALL, "rus");
 	for (int i = 1; i<5; i++)
 	{
-		cout << "Ïåðâûé öèêë #1 =   " << i << endl;
+		cout << "ÐŸÐµÑ€Ð²Ñ‹Ð¹ Ñ†Ð¸ÐºÐ» #1 =   " << i << endl;
 		
 		for (int f = 1; f < 5; f++)
 		{
-			cout << "Âòîðîé öèêë #2 = " << f << endl;
+			cout << "Ð’Ñ‚Ð¾Ñ€Ð¾Ð¹ Ñ†Ð¸ÐºÐ» #2 = " << f << endl;
 		}
 	}
 }
